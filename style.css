@@ -1,0 +1,28 @@
+body{
+    font-family: 'Anton', sans-serif;
+}
+.name{
+    color: chocolate;
+}
+section{
+    display: flex;
+}
+.repo{
+    width: 50%;
+    padding-left: 30px;
+}
+.repo img {
+   width: 450px;
+}
+.click-hear{
+    text-decoration: none;
+    background-image: linear-gradient(orange tomato);
+    background-color: orange;
+    border-radius: 2px ;
+    padding: 10px 20px; 
+    font-weight: 700;
+}
+.bc{
+    background-image: url(../portfolio/developer-portfolio-master/images/top-banner.png);
+    background-repeat: no-repeat;
+}
